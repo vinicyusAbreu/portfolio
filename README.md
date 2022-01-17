@@ -17,7 +17,7 @@ Exibe as informações sobre as habilidades que eu tenho conhecimentos e domíni
 
 </ul>
 
-<h2 ><a href="" target="_blank">🚀 Link do Projeto 🚀</a></h2>
+<h2 ><a href="https://vinicyusabreu.github.io/portfolio/" target="_blank">🚀 Link do Projeto 🚀</a></h2>
 
 ## ✨ Demonstração
 

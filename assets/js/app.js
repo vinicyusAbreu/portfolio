@@ -3,6 +3,7 @@ import scrollAnimado from "./animacao.js";
   const hamburger = document.querySelector("#menu__toggle");
   const menu = document.querySelector(".container-menu-mobile");
   const menuItems = document.querySelectorAll(".menu-mobile li");
+  const anoAtual = document.querySelector(".ano-atual");
 
   let aberto = false;
 
@@ -27,4 +28,6 @@ import scrollAnimado from "./animacao.js";
   });
 
   scrollAnimado("[data-anime='scroll']");
+
+  anoAtual.innerHTML = new Date().getFullYear();
 })();

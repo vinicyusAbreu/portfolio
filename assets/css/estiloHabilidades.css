@@ -78,3 +78,14 @@
     background-color: rgb(234 46 47 / 12%) !important;
     
 }
+
+.rosa-habilidade{
+    border-color: rgb(255 0 255 / 70%) !important;
+    cursor:context-menu;
+    
+}
+
+.rosa-habilidade:hover{
+    background-color: rgb(255 0 255 / 12%) !important;
+    
+}
